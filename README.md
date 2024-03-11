@@ -15,6 +15,7 @@ Dieses Programm ist zur Verwaltung von ausgeliehenen Büchern gedacht. Es ermög
 
 ## Kompilieren und Ausführen
 - Um alle Module zu kompilieren und das Programm auszuführen, verwenden Sie das angegebene Bash-Shell-Skript:
+  ```bash
   bash compile_and_run.sh
 
 ## Informationen zum Autor:
