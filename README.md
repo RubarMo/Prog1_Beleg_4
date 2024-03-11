@@ -18,7 +18,7 @@ Dieses Programm ist zur Verwaltung von ausgeliehenen Büchern gedacht. Es ermög
   bash compile_and_run.sh
 
 ## Informationen zum Autor:
-Name           :  Rubar Mohammad
-Studiengruppe  :  23/041/01
-Matrikelnummer :  55195
-Bib.-Nummer    :  s87453
+- Name           :  Rubar Mohammad
+- Studiengruppe  :  23/041/01
+- Matrikelnummer :  55195
+- Bib.-Nummer    :  s87453
